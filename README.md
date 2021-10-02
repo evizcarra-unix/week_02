@@ -4,7 +4,7 @@ The following is an arcade game using the foundational files from the platform t
 
 The entire purpose is for educational use with those around me. It provides a greater understanding as to what can be created using the arcade library in Python. Additionally, the overall schemes are a great way of exposing individuals interested in programming video games whether simple or complex ones. 
 
-[Arcade Demo Video](https://youtu.be/C6ingSGyVrE)
+[Arcade Demo Video](https://404.html)
 
 # Development Environment
 
